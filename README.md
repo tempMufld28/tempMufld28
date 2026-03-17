@@ -1,5 +1,5 @@
 
-# Hi! I'm Miguel Ángel  /  ¡Hola! Soy Miguel Ángel
+# Hi! I'm Miguel Ángel / ¡Hola! Soy Miguel Ángel
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tempMufld28&theme=gruvbox-duo&hide_border=true&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=498)](https://git.io/streak-stats)
