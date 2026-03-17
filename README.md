@@ -9,7 +9,7 @@
 
 
 
-### 🛠️ Lenguajes y herramientas
+## Lenguajes y herramientas
 
 <table>
   <tr>
@@ -31,18 +31,6 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />
-      </a>
-      <br>Node.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -62,12 +50,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="48" height="48" />
-      </a>
-      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank">
