@@ -46,12 +46,6 @@
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" />
       </a>
