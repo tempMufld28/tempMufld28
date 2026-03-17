@@ -1,5 +1,5 @@
 
-## Una buena birria con sus tortillas a mano, están deliciosa que uff... ¡Lo mejor del mundo!
+## Una buena birria con sus tortillas a mano, es tan deliciosa que uff... ¡Lo mejor del mundo!
 
 ### Me hubiera llamado Manolo Mogollones
 
