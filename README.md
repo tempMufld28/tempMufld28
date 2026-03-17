@@ -77,11 +77,5 @@
       </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
-      <!-- Espacio vacío para mantener simetría -->
-    </td>
-    <td align="center" width="96">
-      <!-- Espacio vacío para mantener simetría -->
-    </td>
   </tr>
 </table>
