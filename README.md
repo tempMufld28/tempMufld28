@@ -43,4 +43,3 @@ aprendiendo_ahora: Kotlin y patrones de diseño
 </p>
 
 ---
----
