@@ -24,7 +24,7 @@ aprendiendo_ahora: Kotlin y patrones de diseño
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tempMufld28&theme=kanagawa-paper&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude&hide_longest_streak=true)](https://git.io/streak-stats" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tempMufld28&theme=kanagawa-paper&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats" alt="GitHub Streak" />
 </p>
 
 ---
