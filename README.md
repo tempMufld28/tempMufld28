@@ -1,77 +1,46 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=fabd2f&center=true&vCenter=true&random=false&width=435&lines=Hola+soy+tempMufld28;Desarrollador+full-stack;" alt="Typing SVG" />
+</h1>
 
-## Una buena birria con sus tortillas a mano, es tan deliciosa que uff... ¡Lo mejor del mundo!
+---
 
-### Me hubiera llamado Manolo Mogollones
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tempMufld28&theme=gruvbox-duo&hide_border=true&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=498)](https://git.io/streak-stats)
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tempmuf) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tempmuf)
+### Sobre mí 
 
 
+```yaml
+nombre: tempMufld28
+rol: Desarrollador full-stack
+foco: [Desarrollo web, Automatización, Android Apps]
+aprendiendo_ahora: Kotlin y patrones de diseño
+```
 
-## Lenguajes y herramientas
+---
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="48" height="48" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="48" height="48" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
+###  Mi actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tempMufld28&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempMufld28&layout=compact&theme=gruvbox&hide_border=true" alt="Lenguajes más usados" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tempMufld28&theme=gruvbox-duo&hide_border=true&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=498" alt="GitHub Streak" />
+</p>
+
+---
+
+###  Mi stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+---
+---
